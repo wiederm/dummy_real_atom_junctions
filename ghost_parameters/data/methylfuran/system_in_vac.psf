@@ -1,0 +1,72 @@
+PSF CHEQ EXT XPLOR
+
+         1 !NTITLE
+
+
+        12 !NATOM
+         1 AAAA     1        LIG      C1       GC3     -0.131483       12.0100           
+         2 AAAA     1        LIG      H7       GHC      0.057617        1.0080           
+         3 AAAA     1        LIG      H8       GHC      0.057617        1.0080           
+         4 AAAA     1        LIG      H9       GHC      0.057617        1.0080           
+         5 AAAA     1        LIG      C2       GCC      0.248917       12.0100           
+         6 AAAA     1        LIG      O3       GOS     -0.366883       16.0000           
+         7 AAAA     1        LIG      C4       GCC      0.233517       12.0100           
+         8 AAAA     1        LIG      H10      GH4      0.051017        1.0080           
+         9 AAAA     1        LIG      C5       GCD     -0.261383       12.0100           
+        10 AAAA     1        LIG      H11      GHA      0.158917        1.0080           
+        11 AAAA     1        LIG      C6       GCD     -0.265383       12.0100           
+        12 AAAA     1        LIG      H12      GHA      0.159917        1.0080           
+
+        12 !NBOND: bonds
+         1         5         1         2         1         3         1         4
+         5         6         5        11         6         7         7         9
+         7         8         9        11         9        10        11        12
+
+        19 !NTHETA: angles
+         2         1         3         2         1         4         3         1         4
+         5         1         2         5         1         3         5         1         4
+         1         5         6         1         5        11         6         5        11
+         5         6         7         6         7         8         6         7         9
+         9         7         8         7         9        10         7         9        11
+        11         9        10         5        11         9         5        11        12
+         9        11        12
+
+        22 !NPHI: dihedrals
+         1         5         6         7         1         5        11         9
+         1         5        11        12         5         6         7         9
+         5         6         7         8         5        11         9         7
+         5        11         9        10         6         5        11         9
+         6         5        11        12         6         7         9        11
+         6         7         9        10         7         6         5        11
+         7         9        11        12         8         7         9        11
+         2         1         5         6         2         1         5        11
+         3         1         5         6         3         1         5        11
+         4         1         5         6         4         1         5        11
+         8         7         9        10        10         9        11        12
+
+         4 !NIMPHI: impropers
+         1        11         5         6         5         9        11        12
+         7        11         9        10         9         8         7         6
+
+         0 !NDON: donors
+
+
+         0 !NACC: acceptors
+
+
+         0 !NNB
+
+         0         0         0         0         0         0         0         0
+         0         0         0         0
+
+         1         0 !NGRP NST2
+         0         1         0
+
+         1 !MOLNT
+         1         1         1         1         1         1         1         1
+         1         1         1         1
+
+         0         0 !NUMLP NUMLPH
+
+         0 !NCRTERM: cross-terms
+
