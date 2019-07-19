@@ -1,0 +1,6 @@
+include LICENSE
+include MANIFEST.in
+include versioneer.py
+
+graft ghost_parameters
+global-exclude *.py[cod] __pycache__ *.so
