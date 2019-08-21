@@ -1,0 +1,19 @@
+REMARK  GENERATE LIGAND                                                               
+REMARK   DATE:     8/ 4/19     11:46: 2      CREATED BY USER: apache                  
+ATOM      1  N   LIG L   1     -40.828   3.273  53.570  1.00  0.00      LIG 
+ATOM      2  C1  LIG L   1     -39.794   2.433  53.157  1.00  0.00      LIG 
+ATOM      3  C2  LIG L   1     -40.329   4.408  54.188  1.00  0.00      LIG 
+ATOM      4  C3  LIG L   1     -38.537   2.904  53.446  1.00  0.00      LIG 
+ATOM      5  C4  LIG L   1     -41.194   5.468  54.723  1.00  0.00      LIG 
+ATOM      6  C5  LIG L   1     -43.069   6.937  55.444  1.00  0.00      LIG 
+ATOM      7  C6  LIG L   1     -41.836   7.442  55.750  1.00  0.00      LIG 
+ATOM      8  C7  LIG L   1     -40.796   6.629  55.352  1.00  0.00      LIG 
+ATOM      9  S1  LIG L   1     -38.615   4.424  54.250  1.00  0.00      LIG 
+ATOM     10  S2  LIG L   1     -42.913   5.432  54.650  1.00  0.00      LIG 
+ATOM     11  H1  LIG L   1     -37.579   2.448  53.234  1.00  0.00      LIG 
+ATOM     12  H2  LIG L   1     -44.052   7.349  55.632  1.00  0.00      LIG 
+ATOM     13  H3  LIG L   1     -41.690   8.388  56.257  1.00  0.00      LIG 
+ATOM     14  H4  LIG L   1     -39.758   6.885  55.520  1.00  0.00      LIG 
+ATOM     15  H5  LIG L   1     -40.071   1.511  52.659  1.00  0.00      LIG 
+TER      16      LIG      1
+END
